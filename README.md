@@ -6,4 +6,7 @@ To connect to fabric_testbed slice :
 
 Configure the ssh stuff according to this video : https://www.youtube.com/watch?v=ieTr9Mj6uuc
 
+How to configure p4 switches : https://github.com/fabric-testbed/jupyter-examples/blob/master/fabric_examples/complex_recipes/P4_bmv2/p4lang_tutorials.ipynb
+
+
 
