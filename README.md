@@ -8,5 +8,8 @@ Configure the ssh stuff according to this video : https://www.youtube.com/watch?
 
 How to configure p4 switches : https://github.com/fabric-testbed/jupyter-examples/blob/master/fabric_examples/complex_recipes/P4_bmv2/p4lang_tutorials.ipynb
 
-
+Bring the interfaces up : 
+```
+sudo ip link set dev ens7 up
+```
 
