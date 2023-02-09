@@ -13,3 +13,7 @@ Bring the interfaces up :
 sudo ip link set dev ens7 up
 ```
 
+How to install tshark on ubuntu : 
+```
+sudo apt install -y tshark
+```
