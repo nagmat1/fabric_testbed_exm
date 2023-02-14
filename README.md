@@ -17,3 +17,16 @@ How to install tshark on ubuntu :
 ```
 sudo apt install -y tshark
 ```
+
+# DOCKER part
+
+To enter docker shell : 
+```
+sudo docker exec -it <<6e1ddc886300 container id>> bash
+```
+
+To get docker id : 
+```
+sudo docker ps
+```
+
